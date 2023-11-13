@@ -1,0 +1,134 @@
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo s 2147483640
+Run 0 | pi = 3.141522421097466; time = 77.097151
+Run 1 | pi = 3.141522424822757; time = 77.380007
+Run 2 | pi = 3.141522421097466; time = 77.515874
+Run 3 | pi = 3.141522421097466; time = 95.446748
+Run 4 | pi = 3.141522419234821; time = 77.416460
+Min time = 77.097151
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 1
+Run 0 | pi = 3.141522421097466; time = 78.033975
+Run 1 | pi = 3.141522419234821; time = 78.248226
+Run 2 | pi = 3.141522758236240; time = 77.940108
+Run 3 | pi = 3.141522760098885; time = 78.511687
+Run 4 | pi = 3.141522760098885; time = 77.975751
+Min time = 77.940108
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 2
+Run 0 | pi = 3.141522421097466; time = 41.165316
+Run 1 | pi = 3.141522754510949; time = 44.884671
+Run 2 | pi = 3.141522758236240; time = 44.539542
+Run 3 | pi = 3.141522424822757; time = 44.434374
+Run 4 | pi = 3.141522424822757; time = 44.763309
+Min time = 41.165316
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 3
+Run 0 | pi = 3.141509948825500; time = 32.952201
+Run 1 | pi = 3.141517146086384; time = 35.233360
+Run 2 | pi = 3.141515639206453; time = 35.314248
+Run 3 | pi = 3.141512675738009; time = 35.320071
+Run 4 | pi = 3.141518589636380; time = 35.099387
+Min time = 32.952201
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 4
+Run 0 | pi = 3.141516885316062; time = 27.712195
+Run 1 | pi = 3.141536677783492; time = 30.654514
+Run 2 | pi = 3.141519636442958; time = 31.007162
+Run 3 | pi = 3.141536631217363; time = 30.793014
+Run 4 | pi = 3.141517079031158; time = 30.839769
+Min time = 27.712195
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 5
+Run 0 | pi = 3.141485522096923; time = 25.220196
+Run 1 | pi = 3.141535331091044; time = 28.231851
+Run 2 | pi = 3.141525334274491; time = 28.452459
+Run 3 | pi = 3.141557086786468; time = 28.224950
+Run 4 | pi = 3.141517963787608; time = 28.341522
+Min time = 25.220196
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 6
+Run 0 | pi = 3.141552543794932; time = 23.081363
+Run 1 | pi = 3.141575968420416; time = 26.397793
+Run 2 | pi = 3.141532846322406; time = 25.933661
+Run 3 | pi = 3.141494036247932; time = 26.261213
+Run 4 | pi = 3.141525108894427; time = 26.283448
+Min time = 23.081363
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 7
+Run 0 | pi = 3.141486283918792; time = 21.643927
+Run 1 | pi = 3.141481373986160; time = 24.501711
+Run 2 | pi = 3.141522512367079; time = 24.875150
+Run 3 | pi = 3.141525442307910; time = 24.588225
+Run 4 | pi = 3.141496131723732; time = 24.436871
+Min time = 21.643927
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 8
+Run 0 | pi = 3.141489597564525; time = 21.897090
+Run 1 | pi = 3.141527409261195; time = 23.585267
+Run 2 | pi = 3.141520323759021; time = 23.874334
+Run 3 | pi = 3.141550470670873; time = 23.722709
+Run 4 | pi = 3.141560299849362; time = 23.763223
+Min time = 21.897090
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 9
+Run 0 | pi = 3.141533822348467; time = 20.870063
+Run 1 | pi = 3.141503232127068; time = 24.058846
+Run 2 | pi = 3.141565410947671; time = 23.970969
+Run 3 | pi = 3.141479030778553; time = 24.008459
+Run 4 | pi = 3.141494697486962; time = 24.265237
+Min time = 20.870063
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 10
+Run 0 | pi = 3.141545752590693; time = 21.142825
+Run 1 | pi = 3.141528120791644; time = 24.422836
+Run 2 | pi = 3.141498106127598; time = 23.564162
+Run 3 | pi = 3.141516674837160; time = 23.979508
+Run 4 | pi = 3.141516149571226; time = 24.129900
+Min time = 21.142825
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 11
+Run 0 | pi = 3.141529862364866; time = 20.906328
+Run 1 | pi = 3.141480500405581; time = 24.017303
+Run 2 | pi = 3.141527759438484; time = 23.701433
+Run 3 | pi = 3.141491350313616; time = 23.966143
+Run 4 | pi = 3.141489057397429; time = 23.656969
+Min time = 20.906328
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 12
+Run 0 | pi = 3.141502203946942; time = 20.602543
+Run 1 | pi = 3.141482094829835; time = 24.534069
+Run 2 | pi = 3.141504895469192; time = 24.531052
+Run 3 | pi = 3.141552040880740; time = 24.161348
+Run 4 | pi = 3.141566366484636; time = 23.591431
+Min time = 20.602543
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 13
+Run 0 | pi = 3.141531030243378; time = 20.866737
+Run 1 | pi = 3.141518885796960; time = 23.800841
+Run 2 | pi = 3.141553378259962; time = 23.772852
+Run 3 | pi = 3.141516445731805; time = 23.890665
+Run 4 | pi = 3.141537273829942; time = 23.558448
+Min time = 20.866737
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 14
+Run 0 | pi = 3.141493332168062; time = 22.118333
+Run 1 | pi = 3.141505614450222; time = 23.907900
+Run 2 | pi = 3.141537612831360; time = 23.564107
+Run 3 | pi = 3.141526680966939; time = 23.498432
+Run 4 | pi = 3.141523203408432; time = 24.053162
+Min time = 22.118333
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 15
+Run 0 | pi = 3.141499508699400; time = 21.489275
+Run 1 | pi = 3.141533801859371; time = 23.915583
+Run 2 | pi = 3.141493233447869; time = 23.885569
+Run 3 | pi = 3.141514976104777; time = 23.457160
+Run 4 | pi = 3.141551813638031; time = 23.782775
+Min time = 21.489275
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 16
+Run 0 | pi = 3.141569871982820; time = 19.312971
+Run 1 | pi = 3.141548997318555; time = 23.988785
+Run 2 | pi = 3.141511960482269; time = 24.186892
+Run 3 | pi = 3.141528288429708; time = 23.850696
+Run 4 | pi = 3.141533863326661; time = 23.917776
+Min time = 19.312971
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 17
+Run 0 | pi = 3.141558882376398; time = 21.074850
+Run 1 | pi = 3.141525656512103; time = 23.978431
+Run 2 | pi = 3.141541595166704; time = 24.159926
+Run 3 | pi = 3.141525570830426; time = 23.734220
+Run 4 | pi = 3.141533855876080; time = 24.024386
+Min time = 21.074850
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo m 2147483640 18
+Run 0 | pi = 3.141534563681240; time = 21.391211
+Run 1 | pi = 3.141473398139601; time = 23.652560
+Run 2 | pi = 3.141572362339394; time = 23.921295
+Run 3 | pi = 3.141562276115873; time = 23.473305
+Run 4 | pi = 3.141508939271826; time = 23.888659
+Min time = 21.391211
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release>
