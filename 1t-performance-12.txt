@@ -1,0 +1,8 @@
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release> .\mcpi_demo s 178956960
+Run 0 | pi = 3.141560965273438; time = 6.444597
+Run 1 | pi = 3.141332172830830; time = 6.533873
+Run 2 | pi = 3.141574577485000; time = 6.422470
+Run 3 | pi = 3.141419814015616; time = 6.418105
+Run 4 | pi = 3.141640269258038; time = 6.401902
+Min time = 6.401902
+PS J:\repos\Parallel computing\MonteCarloPI\x64\Release>

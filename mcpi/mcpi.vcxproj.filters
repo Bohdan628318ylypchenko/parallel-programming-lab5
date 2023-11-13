@@ -20,9 +20,6 @@
     <ClInclude Include="v2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="mtwister.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="mcpi.c">
@@ -32,9 +29,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="v2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="mtwister.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
